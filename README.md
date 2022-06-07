@@ -1,4 +1,4 @@
-This is a simple Telegram bot, written on Python. It was created for no other purpose, but practice.
+This is a Telegram bot, written on Python.
 
 ## What it does?:
 
